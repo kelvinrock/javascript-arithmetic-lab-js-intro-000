@@ -48,4 +48,4 @@ function preserveDecimal(n){
   return parseFloata(n)
 }
 
-function 
+function
