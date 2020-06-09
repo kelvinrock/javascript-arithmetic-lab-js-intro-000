@@ -45,7 +45,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  return parseFloata(n)
+  return parseFloat(n)
 }
 
-function
+function 
